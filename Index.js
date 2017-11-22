@@ -1,8 +1,8 @@
 const Alexa = require('alexa-sdk')
 
+
 const exerStart = `
   <emphasis level ="moderate">Start</emphasis>
-  <break time='10s'/>
   <break time='10s'/>
   <break time='10s'/>
   <break time='10s'/>
@@ -30,10 +30,25 @@ const speech = `
   <break time='10s'/>
   <break time='9s'/>
   ${Sets}
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   ${Sets}
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   ${Sets}
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   ${Sets}
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   ${Sets}
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   Ready
   <break time='10s'/>
   <break time='10s'/>
