@@ -13,6 +13,9 @@ const exerStart = `
 `;
 
 const Sets = `
+  <break time='10s'/>
+  <break time='10s'/>
+  <break time='9s'/>
   Ready
   <break time='500ms'/>
   ${exerStart}
@@ -26,29 +29,11 @@ const speech = `
   <break time='500ms'/>
   ${exerStart}
   Thats one session done now rest for thirty seconds.
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   ${Sets}
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   ${Sets}
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   ${Sets}
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   ${Sets}
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   ${Sets}
-  <break time='10s'/>
-  <break time='10s'/>
-  <break time='9s'/>
   Ready
   <break time='10s'/>
   <break time='10s'/>
