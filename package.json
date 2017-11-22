@@ -1,0 +1,12 @@
+{
+  "name": "Seven Minute HIIT",
+  "version": "1.0.0",
+  "description": "A seven minute HIIT workout Alexa skill",
+  "main": "Index.js",
+  "author": "Henry Price",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "aws-sdk": "^2.94.0"
+  }
+}
